@@ -1,9 +1,9 @@
 # Book-List
 Book List is a simple web application to store Books
 
-Features
+# Features
 • Add new book (title, author & isbn)
 • Delete book
 
-Technologies used:
+# Technologies used:
 • HTML • Skeleton.css • JavaScript • Vanilla js
